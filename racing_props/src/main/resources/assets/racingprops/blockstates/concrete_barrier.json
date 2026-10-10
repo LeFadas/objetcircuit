@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "racingprops:block/concrete_barrier"
+    },
+    "facing=south": {
+      "model": "racingprops:block/concrete_barrier"
+    },
+    "facing=east": {
+      "model": "racingprops:block/concrete_barrier",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "racingprops:block/concrete_barrier",
+      "y": 90
+    }
+  }
+}

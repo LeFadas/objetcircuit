@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="racingprops"
+version="1.0.0"
+displayName="Racing Props"
+description="Objets de circuit : barrière de pneus, cônes, vibreurs, ligne d'arrivée, barrière béton."
+
+[[dependencies.racingprops]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.racingprops]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "racingprops:concrete_barrier",
+    "racingprops:rumble_strip",
+    "racingprops:finish_line"
+  ]
+}
